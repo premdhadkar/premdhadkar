@@ -1,5 +1,40 @@
-### Hi there 👋
+### <h1>@<a href="https://www.github.com/premdhadkar">premdhadkar</a></h1>
 
+About Prem Dhadkar
+
+<a href="https://www.linkedin.com/in/prem-dhadkar-868642131">Prem Dhadkar</a> is currently a B.Tech student in Computer Science and Engineering at <a href="https://www.rgpv.ac.in/">RGPV</a> Bhopal. He started his carrier as a Computer Programmer from school days itself. Later he joined a bachelor's degree in an Enginerring college from Bhopal.
+  He is an interactive person, good listener. A person who love to sing adds a wow factor in his persona, he can handel questions well and is a solution seeker which creates healthy environment in his workspace.
+  He is also an active coder on many platforms like codechef, hackerrank, hackerearth.
+
+Til Date he has learnt to use skills like C, C++, MySQL, MongoDB, Python, JavaScript, Node, Java. Also he has great clearity of most basic concepts in DBMS, OS, TOC.
+  <br><br>
+ <br>
+ 
+ ### Projects<br><br>
+ 
+  1. In the third semester <a href="https://www.linkedin.com/in/prem-dhadkar-868642131">Prem Dhadkar</a> a project named <a href="https://wwwgithub.com/premdhadkar/StudentMGMT"> StudentMGMT </a>. <a href="https://wwwgithub.com/premdhadkar/StudentMGMT"> StudentMGMT </a> is a console based application. It is built on C-Language.
+
+  <img src="https://github.com/premdhadkar/StudentMGMT/blob/master/snaps/1.PNG">
+<br><br><br>
+
+  2. Later <a href="https://www.linkedin.com/in/prem-dhadkar-868642131">Prem Dhadkar</a> Started learning web-tehnologies like HTML, CSS, ES6 and built a small Dice game named <a href = "https://www.premdhadkar.github.io/pig-game/">Pig-Game</a>
+  
+  <img src="https://github.com/premdhadkar/pig-game/blob/master/snap.PNG">
+<br><br><br>
+
+  
+  3. <a href="https://www.linkedin.com/in/prem-dhadkar-868642131">Prem Dhadkar</a> continued learning web-tehnologies and added few more technologies like node, express, MySQL and built a project for his academic curriculum named <a href = "https://www.github.com/premdhadkar/YourPartner">YourPartner</a>
+  <img src="https://github.com/premdhadkar/YourPartner/blob/master/snap.PNG">
+YourPartner is a matrimonial website project. <a href="https://www.linkedin.com/in/prem-dhadkar-868642131">Prem Dhadkar</a> has contributed in Backend designing (Web API designing) and Database Designing.
+
+### Social Links
+
+<ul>
+  <li><a href ="https://www.linkedin.com/in/prem-dhadkar-868642131">LinkedIn : prem-dhadkar-868642131</a></li>
+  <li><a href ="https://www.twitter.com/prem_dhadkar">Twitter : @prem_dhadkar</a></li>
+  <li><a href ="https://www.github.com/premdhadkar">Github : premdhadkar</a></li>
+  <li><a href ="https://www.instagram.com/premdedcker">Instagram : premdedcker</a></li>
+</ul>
 <!--
 **premdhadkar/premdhadkar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
