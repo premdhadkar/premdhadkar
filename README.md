@@ -12,20 +12,20 @@ Til Date he has learnt to use skills like C, C++, MySQL, MongoDB, Python, JavaSc
  
  ### Projects<br><br>
  
-  1. In the third semester <a href="https://www.linkedin.com/in/prem-dhadkar-868642131">Prem Dhadkar</a> a project named <a href="https://wwwgithub.com/premdhadkar/StudentMGMT"> StudentMGMT </a>. <a href="https://wwwgithub.com/premdhadkar/StudentMGMT"> StudentMGMT </a> is a console based application. It is built on C-Language.
+  1. In the third semester <a href="https://www.linkedin.com/in/prem-dhadkar-868642131">Prem</a> built a project named <a href="https://wwwgithub.com/premdhadkar/StudentMGMT"> StudentMGMT </a>. <a href="https://wwwgithub.com/premdhadkar/StudentMGMT"> StudentMGMT </a> is a console based application. It is built on C-Language.
 
   <img src="https://github.com/premdhadkar/StudentMGMT/blob/master/snaps/1.PNG">
 <br><br><br>
 
-  2. Later <a href="https://www.linkedin.com/in/prem-dhadkar-868642131">Prem Dhadkar</a> Started learning web-tehnologies like HTML, CSS, ES6 and built a small Dice game named <a href = "https://www.premdhadkar.github.io/pig-game/">Pig-Game</a>
+  2. Later <a href="https://www.linkedin.com/in/prem-dhadkar-868642131">Prem</a> Started learning web-tehnologies like HTML, CSS, ES6 and built a small Dice game named <a href = "https://www.premdhadkar.github.io/pig-game/">Pig-Game</a>
   
   <img src="https://github.com/premdhadkar/pig-game/blob/master/snap.PNG">
 <br><br><br>
 
   
-  3. <a href="https://www.linkedin.com/in/prem-dhadkar-868642131">Prem Dhadkar</a> continued learning web-tehnologies and added few more technologies like node, express, MySQL and built a project for his academic curriculum named <a href = "https://www.github.com/premdhadkar/YourPartner">YourPartner</a>
+  3. <a href="https://www.linkedin.com/in/prem-dhadkar-868642131">Prem</a> continued learning web-tehnologies and added few more technologies like node, express, MySQL and built a project for his academic curriculum named <a href = "https://www.github.com/premdhadkar/YourPartner">YourPartner</a>
   <img src="https://github.com/premdhadkar/YourPartner/blob/master/snap.PNG">
-YourPartner is a matrimonial website project. <a href="https://www.linkedin.com/in/prem-dhadkar-868642131">Prem Dhadkar</a> has contributed in Backend designing (Web API designing) and Database Designing.
+YourPartner is a matrimonial website project. In YourPartner project, <a href="https://www.linkedin.com/in/prem-dhadkar-868642131">Prem Dhadkar</a> has contributed in Backend designing (Web API designing) and Database Designing.
 
 ### Social Links
 
