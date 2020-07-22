@@ -23,7 +23,7 @@ Til Date he has learnt to use skills like C, C++, MySQL, MongoDB, Python, JavaSc
 <br><br><br>
 
   
-  3. <a href="https://www.linkedin.com/in/prem-dhadkar-868642131">Prem</a> continued learning web-tehnologies and added few more technologies like node, express, MySQL and built a project for his academic curriculum named <a href = "https://www.github.com/premdhadkar/YourPartner">YourPartner</a>
+  3. <a href="https://www.linkedin.com/in/prem-dhadkar-868642131">Prem</a> continued learning web-technologies and added few more skills like Node, Express, MySQL and built a project for his academic curriculum named <a href = "https://www.github.com/premdhadkar/YourPartner">YourPartner</a>
   <img src="https://github.com/premdhadkar/premdhadkar/blob/master/snapYourPartner(Private%20Repo).png">
 YourPartner is a matrimonial website project. In YourPartner project, <a href="https://www.linkedin.com/in/prem-dhadkar-868642131">Prem Dhadkar</a> has contributed in Backend designing (Web API designing) and Database Designing.
 
