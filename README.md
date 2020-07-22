@@ -12,12 +12,12 @@ Til Date he has learnt to use skills like C, C++, MySQL, MongoDB, Python, JavaSc
  
  ### Projects<br><br>
  
-  1. In the third semester <a href="https://www.linkedin.com/in/prem-dhadkar-868642131">Prem</a> built a project named <a href="https://wwwgithub.com/premdhadkar/StudentMGMT"> StudentMGMT </a>. <a href="https://wwwgithub.com/premdhadkar/StudentMGMT"> StudentMGMT </a> is a console based application. It is built on C-Language.
+  1. In the third semester <a href="https://www.linkedin.com/in/prem-dhadkar-868642131">Prem</a> built a project named <a href="https://www.github.com/premdhadkar/StudentMGMT"> StudentMGMT </a>. <a href="https://www.github.com/premdhadkar/StudentMGMT"> StudentMGMT </a> is a console based application. It is built on C-Language.
 
   <img src="https://github.com/premdhadkar/StudentMGMT/blob/master/snaps/1.PNG">
 <br><br><br>
 
-  2. Later <a href="https://www.linkedin.com/in/prem-dhadkar-868642131">Prem</a> Started learning web-tehnologies like HTML, CSS, ES6 and built a small Dice game named <a href = "https://www.premdhadkar.github.io/pig-game/">Pig-Game</a>
+  2. Later <a href="https://www.linkedin.com/in/prem-dhadkar-868642131">Prem</a> Started learning web-tehnologies like HTML, CSS, ES6 and built a small Dice game named <a href = "https://premdhadkar.github.io/pig-game/">Pig-Game</a>
   
   <img src="https://github.com/premdhadkar/pig-game/blob/master/snap.PNG">
 <br><br><br>
