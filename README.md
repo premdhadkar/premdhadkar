@@ -6,7 +6,7 @@ About Prem Dhadkar
   He is an interactive person and a good listener. A person who love to sing adds a wow factor in his persona, he can handel questions well and is a solution seeker which creates healthy environment in his workspace.
   He is also an active coder on many platforms like codechef, hackerrank, hackerearth.
 
-Til Date he has learnt to use skills like C, C++, MySQL, MongoDB, Python, JavaScript, Node, Java. Also he has great clearity of most basic concepts in DBMS, OS, TOC.
+Til Date he has learnt to use skills like C, C++, MySQL, MongoDB, JavaScript and Node. Also he has great clearity of most basic concepts in DBMS, OS, TOC.
   <br><br>
  <br>
  
