@@ -10,6 +10,14 @@ Til Date he has learnt to use skills like C, C++, MySQL, MongoDB, Python, JavaSc
   <br><br>
  <br>
  
+ <a href="https://github.com/premdhadkar?tab=repositories">
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=premdhadkar&&show_icons=true&title_color=ffffff&icon_color=87ceeb&text_color=daf7dc&bg_color=002366&show_icons=true&theme=dracula&line_height=27" alt="Niharika's github stats"/>
+</a>
+<a href="https://github.com/premdhadkar?tab=repositories">
+  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=premdhadkar&theme=dark&hide_langs_below=1&bg_color=002366&icon_color=87ceeb&text_color=daf7dc&title_color=ffffff" />
+</a>
+
+ 
  ### Projects<br><br>
  
   1. In the third semester <a href="https://www.linkedin.com/in/prem-dhadkar-868642131">Prem</a> built a project named <a href="https://www.github.com/premdhadkar/StudentMGMT"> StudentMGMT </a>. <a href="https://www.github.com/premdhadkar/StudentMGMT"> StudentMGMT </a> is a console based application. It is built on C-Language.
@@ -26,6 +34,17 @@ Til Date he has learnt to use skills like C, C++, MySQL, MongoDB, Python, JavaSc
   3. <a href="https://www.linkedin.com/in/prem-dhadkar-868642131">Prem</a> continued learning web-technologies and added few more skills like Node, Express, MySQL and built a project for his academic curriculum named <a href = "https://www.github.com/premdhadkar/YourPartner">YourPartner</a>
   <img src="https://github.com/premdhadkar/premdhadkar/blob/master/snapYourPartner(Private%20Repo).png">
 YourPartner is a matrimonial website project. In YourPartner project, <a href="https://www.linkedin.com/in/prem-dhadkar-868642131">Prem Dhadkar</a> has contributed in Backend designing (Web API designing) and Database Designing.
+
+
+<br>
+
+<a href="https://github.com/premdhadkar/YourPartner">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=premdhadkar&repo=YourPartner&theme=dark&bg_color=002366&icon_color=87ceeb&text_color=daf7dc&title_color=ffffff" />
+</a>
+
+<a href="https://github.com/premdhadkar/StudentMGMT">
+ <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=premdhadkar&repo=StudentMGMT&theme=dark&bg_color=002366&icon_color=87ceeb&text_color=daf7dc&title_color=ffffff" />
+</a>
 
 ### Social Links
 
