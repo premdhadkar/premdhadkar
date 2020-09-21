@@ -19,8 +19,6 @@ Til Date he has learnt to use skills like C, C++, MySQL, MongoDB, JavaScript and
 <br>
 <br>
 <br>
-<br>
-<br>
 
  
  ### Projects<br><br>
