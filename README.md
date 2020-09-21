@@ -8,7 +8,6 @@ About Prem Dhadkar
 
 Til Date he has learnt to use skills like C, C++, MySQL, MongoDB, JavaScript and Node. Also he has great clearity of most basic concepts in DBMS, OS, TOC.
   <br><br>
- <br>
  
  <a href="https://github.com/premdhadkar?tab=repositories">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=premdhadkar&&show_icons=true&title_color=ffffff&icon_color=87ceeb&text_color=daf7dc&bg_color=002366&show_icons=true&theme=dracula&line_height=27" alt="Niharika's github stats"/>
@@ -16,6 +15,11 @@ Til Date he has learnt to use skills like C, C++, MySQL, MongoDB, JavaScript and
 <a href="https://github.com/premdhadkar?tab=repositories">
   <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=premdhadkar&theme=dark&hide_langs_below=1&bg_color=002366&icon_color=87ceeb&text_color=daf7dc&title_color=ffffff" />
 </a>
+<br>
+<br>
+<br>
+<br>
+<br>
 <br>
 
  
