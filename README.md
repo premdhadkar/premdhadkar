@@ -2,11 +2,11 @@
 
 About Prem Dhadkar
 
-<a href="https://www.linkedin.com/in/prem-dhadkar-868642131">Prem Dhadkar</a> is currently a B.Tech student in Computer Science and Engineering at <a href="https://www.rgpv.ac.in/">RGPV</a> Bhopal. He started his carrier as a Computer Programmer from school days itself. Later he joined a bachelor's degree in an Enginerring college from Bhopal.
+<a href="https://www.linkedin.com/in/prem-dhadkar-868642131">Prem Dhadkar</a> is currently API DEVELOPER @ Infosys Ltd., Working on a Digital Banking Project on SpringBoot Technology Stack. He is well verserd in Java, SpringBoot, API & Microservices, MySQL Database. <br><br>He is a Bachelor in Techonology in Computer Science and Engineering at <a href="https://www.rgpv.ac.in/">RGPV</a> Bhopal. He started his carrier as a Computer Programmer from school days itself. Later he joined a bachelor's degree in an Enginerring college from Bhopal.
   He is an interactive person and a good listener. A person who love to sing adds a wow factor in his persona, he can handel questions well and is a solution seeker which creates healthy environment in his workspace.
   He is also an active coder on many platforms like codechef, hackerrank, hackerearth.
 
-Til Date he has learnt to use skills like C, C++, MySQL, MongoDB, JavaScript and Node. Also he has great clearity of most basic concepts in DBMS, OS, TOC.
+Til Date he has learnt to use skills like C, C++, MySQL, MongoDB, JavaScript, Node, Java, SpringBoot. Also he has great clearity of concepts in DBMS, OS, TOC and Computational Analysis of Algorithms.
   <br><br>
  
  <a href="https://github.com/premdhadkar?tab=repositories">
